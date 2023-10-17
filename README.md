@@ -1,1 +1,1 @@
-# S206---QALab
+# S206-QALab
